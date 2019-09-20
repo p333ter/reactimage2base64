@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 
-import Image from 'image-to-base64';
+import Image from 'reactimage2base64';
 
 export default class App extends Component {
   render () {
     return (
       <div>
-        <Image src='https://restcountries.eu/data/aus.svg' />
+        <Image src='https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg' />
       </div>
     )
   }
