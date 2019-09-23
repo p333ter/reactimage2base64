@@ -27,6 +27,9 @@ class Example extends React.Component {
 }
 ```
 
+## Result
+<img src="https://raw.githubusercontent.com/p333ter/reactimage2base64/master/assets/reactimage2base64.png">
+
 ## License
 
 MIT © [p333ter](https://github.com/p333ter)
