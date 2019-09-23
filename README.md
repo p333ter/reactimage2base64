@@ -1,5 +1,5 @@
 # reactimage2base64
-React component to generate an image to base64. You can make this using a path or URL.
+React component to generate an image source to base64. You can make this using a path or URL. You could use all the image attributes and base events like a onclick, onmouseover etc..
 <<<<<<< HEAD
 > 
 

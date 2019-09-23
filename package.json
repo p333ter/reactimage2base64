@@ -1,6 +1,6 @@
 {
   "name": "reactimage2base64",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "React component to generate an image to base64. You can make this using a path or URL.",
   "author": "p333ter",
   "license": "MIT",
